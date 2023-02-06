@@ -1,5 +1,5 @@
 <html> <head>
-<title> Udsanee-Display customer in table</title>
+<title> Sakkarin-Display customer in table</title>
 </head>
 <body>
 <?php
